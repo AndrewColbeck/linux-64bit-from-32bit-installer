@@ -10,7 +10,7 @@ The MacPro 1,1 along with other legacy models from around 2006 (the Core2Duo era
 - Make a copy of the ISO as a backup: `cp <original-iso-name>.iso macversion.iso`
 - Run the compiled script against the *copy* of the ISO `./isomacprog macversion.iso` 
 - Check terminal/console for errors, although only basic error handling is included.
-- Use a dedicated tool such as Burn or SimplyBurn (both open source), to burn the `macversion.iso` to CD/DVD not Disk Utility
+- burn the `macversion.iso` to CD/DVD not Disk Utility: right click the macversion.iso file and click burn to disk
 - Hold `Option` key while booting Mac, the boot media will like be called "Windows"
 - Follow Ubuntu installer instructions
 
